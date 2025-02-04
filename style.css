@@ -17,7 +17,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+a.active{
+    text-decoration: underline;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
