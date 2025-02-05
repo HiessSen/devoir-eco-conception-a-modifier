@@ -30,7 +30,7 @@ header div#titre div#logoTitre h1{
 }
 header div#titre div#logoTitre p{
     font-family: Arial, Helvetica, sans-serif;
-    color: darkgray;
+    color: #000000;
     font-size: xx-small;
     word-spacing: 5px;
 }
@@ -86,7 +86,7 @@ section.contact img{
     width: 100px;
 }
 section.contact h2{
-    color: #F3976C;
+    color: #FF7C40;
     font-family: Helvetica, sans-serif;
     font-weight: 400;
 }
@@ -97,7 +97,7 @@ a.boutonContact{
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     color: #FFFFFF;
-    background-color: #F3976C;
+    background-color: #FF7C40;
     border-radius: 50px;
 }
 div#services{
@@ -154,7 +154,7 @@ section#background div#carte h4{
     font-size: 22px;
     font-weight: 400;
     line-height: 1.4em;
-    color: #F3976C;
+    color: #FF7C40;
     text-shadow: #000000 1px 0 10px;
 }
 section#background div#carte p{
@@ -202,12 +202,12 @@ section#activites div#carreActivites div h4{
 h3#callToAction{
     font-family: Helvetica, sans-serif;
     font-weight: 400;
-    color: #F3976C;
+    color: #FF7C40;
 }
 section#separationTerre{
     height: 200px;
     background-image: url("../img/texture-paper.webp");
-    background-color: #F3976C;
+    background-color: #FF7C40;
 }
 form{
     width: 80%;
@@ -233,14 +233,14 @@ button#submit{
     padding: 10px 20px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color: #F3976C;
+    background-color: #FF7C40;
 }
 footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     color: #FFFFFF;
-    background-color: #F3976C;
+    background-color: #FF7C40;
 }
 footer p{
     width: 100%;
