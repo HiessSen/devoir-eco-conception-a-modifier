@@ -66,7 +66,7 @@ section h3{
 }
 section h3#source{
     font-weight: lighter;
-    color: #9b9b9b;
+    color: #575757;
 }
 section.papier{
     background-image: url("../img/texture-paper.webp");
@@ -154,7 +154,7 @@ section#background div#carte h4{
     font-size: 22px;
     font-weight: 400;
     line-height: 1.4em;
-    color: #DF3603;
+    color: #F3976C;
     text-shadow: #000000 1px 0 10px;
 }
 section#background div#carte p{
